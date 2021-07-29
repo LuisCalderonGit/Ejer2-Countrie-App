@@ -6,6 +6,7 @@ Aparte de realizar el consumo de la api, para la visualizacion use Material UI p
 
 # Nota
 al realizar la pruba de este por favor correr 
+### npm install
 
 # npm install
 
